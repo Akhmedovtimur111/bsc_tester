@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT
+
 pragma solidity >=0.5.0;
 
 import 'https://github.com/Uniswap/v2-core/blob/master/contracts/interfaces/IUniswapV2Pair.sol';
