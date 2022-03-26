@@ -2,7 +2,7 @@ pragma solidity >=0.5.0;
 
 import 'https://github.com/Uniswap/v2-core/blob/master/contracts/interfaces/IUniswapV2Pair.sol';
 
-import "https://github.com/Uniswap/v2-periphery/blob/master/contracts/libraries/SafeMath.sol";
+import 'https://github.com/Akhmedovtimur111/bsc_tester/blob/main/SafeMath.sol';
 
 library UniswapV2Library {
     using SafeMath for uint;
